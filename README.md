@@ -15,6 +15,7 @@
 ![결과물](ppt/6.png)  
 
 
+---
 
 
 ## Advanced 3D Scripting Course (Fall 2023, Junior Year)
@@ -31,6 +32,7 @@ This course involved creating 3D models using scripting, arranging them, and app
 Through this project, we learned creative 3D modeling techniques, efficient use of scripting, and improved our teamwork skills.  
 
 
+---
 
 
 ## 2023年 第2学期 高度な3Dスクリプティング授業
@@ -46,7 +48,7 @@ Through this project, we learned creative 3D modeling techniques, efficient use 
 ### 結果
 このプロジェクトを通じて、創造的な3Dモデリング技術、効率的なスクリプティングの活用方法を学び、チームワーク能力を向上させることができました。  
 
-
+---
 
 ![결과물](ppt/1.png) 
 ![결과물](ppt/2.png) 
