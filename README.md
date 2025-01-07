@@ -12,9 +12,7 @@
 
 ### 결과물
 본 프로젝트를 통해 창의적인 3D 모델링 기법과 효율적인 스크립팅 활용 방식을 학습하였으며, 협업 능력을 향상시킬 수 있었음  
-
-
-
+![결과물](ppt/6.png)  
 
 
 
@@ -35,10 +33,6 @@ Through this project, we learned creative 3D modeling techniques, efficient use 
 
 
 
-
-
-
-
 ## 2023年 第2学期 高度な3Dスクリプティング授業
 
 ### プロジェクト概要
@@ -52,3 +46,18 @@ Through this project, we learned creative 3D modeling techniques, efficient use 
 ### 結果
 このプロジェクトを通じて、創造的な3Dモデリング技術、効率的なスクリプティングの活用方法を学び、チームワーク能力を向上させることができました。  
 
+
+
+![결과물](ppt/1.png) 
+![결과물](ppt/2.png) 
+![결과물](ppt/3.png) 
+![결과물](ppt/4-1.png) 
+![결과물](ppt/4-2.png) 
+![결과물](ppt/4-3.png) 
+![결과물](ppt/4-4.png) 
+![결과물](ppt/4-5.png) 
+![결과물](ppt/4-6.png) 
+![결과물](ppt/4-7.png) 
+![결과물](ppt/5.png) 
+![결과물](ppt/6.png) 
+![결과물](ppt/7.png) 
