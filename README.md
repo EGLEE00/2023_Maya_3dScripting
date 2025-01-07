@@ -17,7 +17,7 @@
 
 
 
-## Advanced 3D Scripting Course in the Second Semester of 2023
+## Advanced 3D Scripting Course (Fall 2023, Junior Year)
 
 ### Project Overview
 This course involved creating 3D models using scripting, arranging them, and applying animations to complete a single cohesive project.  
