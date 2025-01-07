@@ -13,8 +13,7 @@
 ### 결과물
 본 프로젝트를 통해 창의적인 3D 모델링 기법과 효율적인 스크립팅 활용 방식을 학습하였으며, 협업 능력을 향상시킬 수 있었음  
 
-### 동영상
-[동영상](https://youtu.be/HzUWPJfNoW4)  
+### [동영상](https://youtu.be/HzUWPJfNoW4)  
 
 ![결과물](ppt/6.png)  
 
@@ -35,8 +34,7 @@ This course involved creating 3D models using scripting, arranging them, and app
 ### Outcome
 Through this project, we learned creative 3D modeling techniques, efficient use of scripting, and improved our teamwork skills.  
 
-### Video
-[Video](https://youtu.be/HzUWPJfNoW4)  
+### [Video](https://youtu.be/HzUWPJfNoW4)  
 
 
 ---
@@ -55,8 +53,7 @@ Through this project, we learned creative 3D modeling techniques, efficient use 
 ### 結果
 このプロジェクトを通じて、創造的な3Dモデリング技術、効率的なスクリプティングの活用方法を学び、チームワーク能力を向上させることができました。  
 
-### 動画
-[動画](https://youtu.be/HzUWPJfNoW4)  
+### [動画](https://youtu.be/HzUWPJfNoW4)  
 
 ---
 
